@@ -28,9 +28,7 @@ The following steps explain how this "Note Taker" application works:
 
 - [**Installation**](#installation)
 - [**Usage**](#usage)
-- [**Credits**](#credits)
 - [**License**](#license)
-- [**Contributing**](#contributing)
 - [**Questions**](#questions)
 
 # Installation
@@ -55,17 +53,9 @@ npm install generate-unique-id  // for generate unique id dependencies
 
 Click [**here**](https://note-taker-express-application.herokuapp.com) to view deployed application on Heroku.
 
-## Credits
-
-The application's front end was provided. To give the application its CRUD (create, read, update, and delete) functionality, I built the bank end, connected the two, and then deployed the entire application to Heroku.
-
 ## License
 
 This project is licensed under the [**MIT**](https://opensource.org/licenses/MIT) license.
-
-## Contributing
-
-All comments and suggestions regarding improvements to this project are welcome. To contribute to this project, clone this [**project repository**](https://github.com/pilar122/Note-Taker-Express-Application-) locally and commit your code on a separate branch. You may then modify the code to your liking, submit well-formed pull requests and open useful issues. For steps on how to clone a repository using the command line, read this section of the Github Docs [**about cloning a repository**](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#about-cloning-a-repository).
 
 ## Questions
 

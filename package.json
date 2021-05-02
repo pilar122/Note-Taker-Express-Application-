@@ -1,0 +1,26 @@
+{
+  "name": "note-taker-express-application-",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilar122/Note-Taker-Express-Application-.git"
+  },
+  "keywords": [],
+  "author": "Alba Pilarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilar122/Note-Taker-Express-Application-/issues"
+  },
+  "homepage": "https://github.com/pilar122/Note-Taker-Express-Application-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "generate-unique-id": "^2.0.1",
+    "nodemon": "^2.0.6"
+  }
+}

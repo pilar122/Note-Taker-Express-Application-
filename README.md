@@ -17,10 +17,12 @@ The following steps explain how this "Note Taker" application works:
 5. When the user clicks on an existing note in the list in the left-hand column, that note appears in the right-hand column.
 6. When the user clicks on the write icon in the navigation at the top of the page, they're presented with empty fields to enter a new note and the note's text in the right-hand column.
 
-## Mock-Up
+## Screenshots
 
-The following images show the web application's appearance and functionality:
-![Demo Gif of Note Taker App](./public/assets/images/demo_gif.gif)
+![Screen Shot 2021-05-02 at 11 00 22 AM (2)](https://user-images.githubusercontent.com/71223784/116821115-cdd77d00-ab35-11eb-8d63-7fe09b047355.png)
+![Screen Shot 2021-05-02 at 11 00 26 AM (2)](https://user-images.githubusercontent.com/71223784/116821116-ce701380-ab35-11eb-8a19-68b2a6d77797.png)
+![Screen Shot 2021-05-02 at 11 00 36 AM (2)](https://user-images.githubusercontent.com/71223784/116821117-cf08aa00-ab35-11eb-9e96-7ae8faa97bf8.png)
+
 
 ## Table of Contents
 
